@@ -1,4 +1,5 @@
 {"at":0,"actor":"keeper","kind":"lanes","body":{"lanes":{"L":{"inside":"li","outside":"lo","overlap_with":["R"],"directions":["in","out"]},"R":{"inside":"ri","outside":"ro","overlap_with":["L"],"directions":["in"]}},"zones":["yard","outside"]}}
+{"at":0,"actor":"keeper","kind":"pallet_registry","body":{"pallets":{"P1":{"zone":"yard"},"P2":{"zone":"yard"}}}}
 {"at":1,"actor":"desk","kind":"loan","body":{"pallet":"P1","loan":"L19","borrower":"team-a"}}
 {"at":1,"actor":"desk","kind":"loan","body":{"pallet":"P2","loan":"L20","borrower":"team-a"}}
 {"at":4,"actor":"gate","kind":"occupied","body":{"lane":"L","cycle":"c1","time":[4,20]}}
